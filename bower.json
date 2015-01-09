@@ -3,5 +3,7 @@
   "version": "1.0",
   "main": "./angular-ionic-youtube.js",
   "dependencies": {
+    "angular": ">=1.2.0",
+    "lodash": "~2.4.1"
   }
 }
