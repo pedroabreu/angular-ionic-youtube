@@ -1,0 +1,7 @@
+{
+  "name": "angular-youtube",
+  "version": "1.0",
+  "main": "./angular-ionic-youtube.js",
+  "dependencies": {
+  }
+}
